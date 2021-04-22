@@ -1,38 +1,17 @@
-## Welcome to GitHub Pages
+## What do I do?
 
-You can use the [editor on GitHub](https://github.com/gnagy5/Start-to-Code-with-Swift-Sep-2019---March-2020-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I currently am an instructional designer, website designer, and video and audio editor at the Center on Education and Training for Employment ([CETE](https://cete.osu.edu/)).  I have worked at the center for over 20 years starting as a web developer working with HTML, CSS, and .NET on the website for the National Dissemination Center for Career and Technical Education.  My collegue and I also made our own 'Zoom' type web conferencing interface for live webcasts before you could purchase such software or service.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Most recently, I created this [website](https://ohiofamiliesengage.osu.edu/) and help maintain and add to it on a weekly basis.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have an strong interest in VR and AR.
 
-```markdown
-Syntax highlighted code block
+Here are two examples of scenes I made using Amazon Sumerian in the AWS cloud through a web browser.  You can use it as a flat webpage in a browser or use it with VR in either Chrome or Firefox.
 
-# Header 1
-## Header 2
-### Header 3
+1.	Allow your microphone, then press down spacebar and say “Book a hotel.” Then lift up on the spacebar.  You can follow along with the responses from there.
+[https://us-east-2.sumerian.aws/85a5defd971a42768fa4bab53a13819b.scene](https://us-east-2.sumerian.aws/85a5defd971a42768fa4bab53a13819b.scene)
 
-- Bulleted
-- List
+2.	Here is another example of something I was able to put together in about 2 days’ time while following a tutorial but still customizing some things.  You can play this simple game in your web browser or in VR.  If you use the Chrome browser, make sure to unmute the scene by clicking the sound icon at the bottom right of the browser.  This is so you can listen to the instructions.
+[https://us-east-2.sumerian.aws/4d10d83c57fa444a87fe11bd43d0634c.scene](https://us-east-2.sumerian.aws/4d10d83c57fa444a87fe11bd43d0634c.scene)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gnagy5/Start-to-Code-with-Swift-Sep-2019---March-2020-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
- 
