@@ -1,5 +1,5 @@
 ## Welcome to GitHub Page
 
-Please see my [About Me](AboutMe) page.
+Please see my [About Me](AboutMe.md) page.
 
-Also see my [Portfolio](Portfolio) page.
+Also see my [Portfolio](Portfolio.md) page.
