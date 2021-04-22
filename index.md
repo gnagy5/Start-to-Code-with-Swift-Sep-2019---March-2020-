@@ -1,5 +1,5 @@
 ## Welcome to GitHub Page
-## Thank you for checking out me
+## Thank you for checking out my work
 
 Please see my [About Me](AboutMe.md) page.
 
